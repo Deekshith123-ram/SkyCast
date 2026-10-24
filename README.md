@@ -1,12 +1,12 @@
 🌦️ SkyCast — Live Weather & Satellite Cloud Tracking
 
-Live Weather Forecasting and Satellite Cloud Tracking for Karnataka, India 🇮🇳
+Live Weather Forecasting and Satellite Cloud Tracking for Karnataka, India 
 
 SkyCast is a modern, mobile-friendly weather application focused on Karnataka, India. It provides a convenient way to explore weather information through a responsive interface, with installation support directly from the application when available.
 
 🌐 Live Application
 
-🚀 Open SkyCast: "Launch SkyCast" (PASTE_YOUR_VERCEL_URL_HERE)
+🚀 Open SkyCast: "Launch SkyCast" (https://skycast-murex-six.vercel.app?_vercel_share=vhZRSpSd9tVSlNZ2EwpZKTbfkz7BCGgi)
 
 Visit the live website to explore the application and its available features.
 
